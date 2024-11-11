@@ -1,13 +1,13 @@
 {
-  "domain": "GuntamaticBiostar",
-  "name": "GuntamaticBiostar",
-  "codeowners": ["@a529987659852"],
+  "domain": "GuntamaticBiostarFR",
+  "name": "GuntamaticBiostarFR",
+  "codeowners": ["@Tek4Seth"],
   "config_flow": true,  
   "dependencies": [],
   "documentation": "https://www.example.com",
   "integration_type": "device",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/a529987659852/GuntamaticBiostar/issues",
+  "issue_tracker": "https://github.com/Tek4Seth/GuntamaticBiostarFR/issues",
   "requirements": [],
   "version": "0.1"
 }
