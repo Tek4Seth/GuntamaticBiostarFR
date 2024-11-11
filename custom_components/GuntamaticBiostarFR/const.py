@@ -394,7 +394,7 @@ BINARY_SENSOR_DESC = [
         name="Mischer 2",
     ),
 ]
-
+SELECT_DESC = [
     guntamaticSelectEntityDescription(
         key="Program",
         name="Program",
